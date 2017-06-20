@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD79E376-EE88-43B3-8782-75A3680F975D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vehinh</RootNamespace>
+    <AssemblyName>Vehinh</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormNhapToaDoEllip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoEllip.Designer.cs">
+      <DependentUpon>FormNhapToaDoEllip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapToaDoHBH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoHBH.Designer.cs">
+      <DependentUpon>FormNhapToaDoHBH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapToaDoHCN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoHCN.Designer.cs">
+      <DependentUpon>FormNhapToaDoHCN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapToaDoDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoDT.Designer.cs">
+      <DependentUpon>FormNhapToaDoDT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapToaDoHT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoHT.Designer.cs">
+      <DependentUpon>FormNhapToaDoHT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormToaDoHinhHop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormToaDoHinhHop.Designer.cs">
+      <DependentUpon>FormToaDoHinhHop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormToaDoHinhThap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormToaDoHinhThap.Designer.cs">
+      <DependentUpon>FormToaDoHinhThap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormToaDoTamGiac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormToaDoTamGiac.Designer.cs">
+      <DependentUpon>FormToaDoTamGiac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapToaDoTron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapToaDoTron.Designer.cs">
+      <DependentUpon>FormNhapToaDoTron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormNhapToaDoEllip.resx">
+      <DependentUpon>FormNhapToaDoEllip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapToaDoHBH.resx">
+      <DependentUpon>FormNhapToaDoHBH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapToaDoHCN.resx">
+      <DependentUpon>FormNhapToaDoHCN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapToaDoDT.resx">
+      <DependentUpon>FormNhapToaDoDT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapToaDoHT.resx">
+      <DependentUpon>FormNhapToaDoHT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormToaDoHinhHop.resx">
+      <DependentUpon>FormToaDoHinhHop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormToaDoHinhThap.resx">
+      <DependentUpon>FormToaDoHinhThap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormToaDoTamGiac.resx">
+      <DependentUpon>FormToaDoTamGiac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapToaDoTron.resx">
+      <DependentUpon>FormNhapToaDoTron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

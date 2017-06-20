@@ -1,0 +1,109 @@
+F:\bt_cShape_WebForm\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+F:\bt_cShape_WebForm\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+F:\bt_cShape_WebForm\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.Form1.resources
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+F:\bt_cShape_WebForm\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+F:\bt_ktdohoa\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+F:\bt_ktdohoa\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+F:\bt_ktdohoa\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+C:\Users\hille_000\Documents\Visual Studio 2015\Projects\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+F:\bt_ktdohoa\demo\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+C:\Users\hille_000\Documents\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+C:\Users\hille_000\Documents\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+C:\Users\hille_000\Documents\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+C:\Users\hille_000\Documents\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoTamGiac.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhHop.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhThap.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoTamGiac.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+C:\Users\hille_000\Desktop\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhHop.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhThap.resources
+F:\bt_ktdohoa\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoTamGiac.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\bin\Debug\Vehinh.exe.config
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.exe
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.pdb
+C:\Users\hille_000\Music\Vehinh\Vehinh\bin\Debug\Vehinh.exe
+C:\Users\hille_000\Music\Vehinh\Vehinh\bin\Debug\Vehinh.pdb
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.csprojResolveAssemblyReference.cache
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoEllip.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHBH.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHCN.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoDT.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoHT.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhHop.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoHinhThap.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormToaDoTamGiac.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.Form2.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.FormNhapToaDoTron.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.Properties.Resources.resources
+C:\Users\hille_000\Music\Vehinh\Vehinh\obj\Debug\Vehinh.csproj.GenerateResource.Cache
